@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmellCreator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="bases">
+        <item>Male Base</item>
+        <item>Female Base</item>
+    </string-array>
+    
+    <string-array name="tops">
+        <item>Male Herbal</item>
+        <item>Male Fruit</item>
+        <item>Male Woody</item>
+        <item>Female Fruit</item>
+        <item>Female Floral</item>
+        <item>Female Sweet</item>
+    </string-array>
+
+</resources>
